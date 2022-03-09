@@ -1,3 +1,11 @@
+---
+name: User story template
+about: A template for creating user story issue.
+title: "[user story]"
+labels: ":rainbow: user-story"
+assignees: ''
+---
+
 [
 The user story should have a reason to exist: what do I need as the user described in the summary?
 This part details any detail that could not be passed by the summary.

@@ -12,13 +12,13 @@ assignees: ''
 
 Describe the code that needs refactoring
 
-**Expected Behaviour**
+**File/Files to be refactored**
 
-A clear and concise description of what you expected to happen.
+List files that need to be refactored
 
 **Additional Context**
 
-Add any other context or screenshots about the code.
+Add any other context about the code.
 
 **Screenshots (Optional)**
 

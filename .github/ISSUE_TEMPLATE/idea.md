@@ -1,3 +1,11 @@
+---
+name: Idea template
+about: A template for creating idea issue.
+title: "[idea]"
+labels: "Idea"
+assignees: ''
+---
+
 # Idea
 
 - **Original author:** @

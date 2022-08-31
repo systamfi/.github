@@ -1,7 +1,7 @@
 ---
 name: Idea template
 about: A template for creating idea issue.
-title: "[idea]"
+title: ""
 labels: "Idea"
 assignees: ''
 ---

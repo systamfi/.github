@@ -37,4 +37,4 @@ this from hitting the projected end date.
 
 ## Features
 The list of related features, bugs etc.
-- [] [feature] My awesome feature
+- [ ] [feature] My awesome feature

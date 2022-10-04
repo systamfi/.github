@@ -34,3 +34,7 @@ updated on the Epic project.
 ## Timeline
 What's the timeline for this Epic, what resources are needed, and what might potentially block 
 this from hitting the projected end date.
+
+## Features
+The list of related features, bugs etc.
+- [] [feature] My awesome feature

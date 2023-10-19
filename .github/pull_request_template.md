@@ -1,19 +1,27 @@
 Fixes #?
 
+## Developer fills
+
 **Summary**
 
-
-
-**Checklist**
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] My change requires a change to the documentation
-- [ ] I have updated the documentation accordingly
+**Testing description**
 
 **Notes to reviewer**
 
-
+**Link to documentation**
 
 **Screenshot (optional)**
+
+## Reviewer fills
+
+[**DoD Checklist**](https://github.com/systamfi/SystamDevOps/wiki/Definition-of-Done-(DoD)#developmen)
+
+- [ ] I have understood the acceptance criteria (Planning)
+- [ ] The PR follows planned definitions (Development)
+- [ ] The PR has sufficient testing (Testing)
+- [ ] Documentation for the PR is sufficient (Documentation)
+
+
+
+
 

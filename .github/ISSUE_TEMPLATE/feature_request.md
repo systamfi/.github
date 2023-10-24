@@ -16,6 +16,10 @@ Explain the use case of this feature.
 
 A clear and concise description of what you expected to happen.
 
+**Acceptance Criteria**
+
+- [ ] List the criteria that must be met for this feature to be considered complete
+
 **Additional Context**
 
 Add any other context or screenshots about the feature request here.

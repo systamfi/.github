@@ -3,23 +3,28 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[feature]"
 labels: feature,enhancement
-assignees: ''
-
+assignees: ""
 ---
 
-
-**Use Case**
+**Plan**
 
 Explain the use case of this feature.
 
-**Expected Behaviour**
+**Acceptance Criteria:**
 
-A clear and concise description of what you expected to happen.
+List criteria/prerequisites that need to be met before this ticket is considered complete.
+
+- [ ] PO has approved this ticket
+- [ ]
+
+**Test**
+
+Explanation of test cases, or when not provided
+
+**Documentation**
+
+What documentation will be added/updated, or why it is not needed.
 
 **Additional Context**
 
 Add any other context or screenshots about the feature request here.
-
-**Screenshots (Optional)**
-
-Screenshot helps developer to visualise the issue.

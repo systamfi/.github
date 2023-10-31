@@ -6,43 +6,31 @@ labels: ":calendar: epic"
 assignees: ""
 ---
 
-## Initiative/Goal:
+## Product Owner To-Do - Delete after completion
+When this point has been reached, the idea or functionality has already gotten a green light for planning. These next steps have to be checked before the epic can be given to developers for final specifications and time-boxing. 
 
-Brief summary of what this Epic is, whether it's a larger project, goal, or user story.
-Describe the job to be done, which persona this Epic is mainly for, or if more multiple,
-break it down by user and job story.
+- [ ] The epic has a clear goal/name which the user stories accomplish
+- [ ] If you feel the Epic requires a description, a short description has been written
+- [ ] User happy paths have been written down
+- [ ] User stories, which fulfil the user happy paths, have been added to the task list
 
-## Description:
+**When this list is complete:** 
 
-Describe how this Epic impacts an initiative the business is working on.
+- If you still feel unsure about the epic, ask a coworker to read the whole thing through for feedback. 
+- Otherwise, delete this section. The epic is now ready for developers.
 
-### Acceptance Criteria:
+## Short description
+Write in less than 10 lines what this epic/feature is about. (OPTIONAL)
 
-Define what is a must-have for launch and in-scope. Keep this section fluid and dynamic until you
-lock-in priority during planning.
+## User happy paths: 
+Write every scenario that the user might encounter with this epic/feature. 
+For example:
 
-## Tasks:
+**AD HOC meeting:**
+1. As a user I arrive at the rooms display
+2. I press "30 minutes"
+3. The display books a meeting for the next 30 minutes
 
-List of tasks that need to be done before this epic is complete
-
-- [ ]
-
-## Additional Notes:
-
-## Stakeholders
-
-Describe who needs to be kept up-to-date about this Epic, included in discussions, or updated along
-the way. Stakeholders can be both in Product/Engineering (in Finnish "tuotekehitys"), as well as
-other teams like Customer Success (CS-team, in Finnish "CS-tiimi") who might want to keep customers
-updated on the Epic project.
-
-## Timeline
-
-What's the timeline for this Epic, what resources are needed, and what might potentially block
-this from hitting the projected end date.
-
-## Features
-
-The list of related features, bugs etc.
-
-- [ ] [feature] My awesome feature
+```[tasklist]
+### User Stories
+```

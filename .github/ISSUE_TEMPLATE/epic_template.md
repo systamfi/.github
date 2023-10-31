@@ -6,7 +6,7 @@ labels: ":calendar: epic"
 assignees: ""
 ---
 
-## Product Owner To-Do - Delete after completion
+## Epic Owner To-Do - Delete after completion
 When this point has been reached, the idea or functionality has already gotten a green light for planning. These next steps have to be checked before the epic can be given to developers for final specifications and time-boxing. 
 
 - [ ] The epic has a clear goal/name which the user stories accomplish

@@ -13,5 +13,5 @@ assignees: ''
 ## How will it work?
 
 ```[tasklist]
-### Epics
+### Epics and/or Features
 ```

@@ -31,6 +31,9 @@ For example:
 2. I press "30 minutes"
 3. The display books a meeting for the next 30 minutes
 
+## Timebox
+If you are unable to give a time estimate, add a [Spike] issue to the Tasklist. 
+Use it to get the necessary context to estimate the job at hand.
 ```[tasklist]
 ### User Stories
 ```

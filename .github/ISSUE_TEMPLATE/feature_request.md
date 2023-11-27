@@ -14,8 +14,7 @@ Explain the use case of this feature.
 
 List criteria/prerequisites that need to be met before this ticket is considered complete.
 
-- [ ] PO has approved this ticket
-- [ ]
+- [ ] 
 
 **Test**
 

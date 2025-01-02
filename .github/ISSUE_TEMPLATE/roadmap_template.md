@@ -1,7 +1,7 @@
 ---
 name: Roadmap template
 about: A template for creating roadmap issue.
-title: "[roadmap]"
+title:
 labels: ":crystal_ball: roadmap"
 assignees: ''
 ---

@@ -6,8 +6,13 @@ labels: ":crystal_ball: roadmap"
 assignees: ''
 ---
 
-## Value Proposition
+## Goal
 What value does this issue bring to the table once complete?
 
-## Expected Outcome
-How will the end users benefit from this issue?
+## Developer comments
+What sort of things we need to do?
+
+## Stakeholder comments
+Conversation to clarify how the functionality should work
+
+## Tasks

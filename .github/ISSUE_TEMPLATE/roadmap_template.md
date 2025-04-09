@@ -9,6 +9,12 @@ assignees: ''
 ## Goal
 What value does this issue bring to the table once complete?
 
+# Feature Specifications
+<details>
+<summary> Specifications (click to open)</summary>
+Write down the feature specifications here
+</details>
+  
 ## Developer comments
 What sort of things we need to do?
 

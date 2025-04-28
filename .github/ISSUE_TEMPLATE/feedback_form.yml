@@ -1,3 +1,4 @@
+version: "beta"
 name: Feedback
 description: File a bug report or feature request from the customers
 assignees: "CountKeepo"

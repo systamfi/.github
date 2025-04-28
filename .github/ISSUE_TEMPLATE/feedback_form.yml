@@ -1,0 +1,28 @@
+name: Feedback
+description: File a bug report or feature request from the customers
+assignees: "CountKeepo"
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of issue
+      description: Is this a bug or a request?
+      options:
+        - Bug
+        - Feature request
+    validations:
+      required: true
+  
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug description
+      description: Whats happening?
+    validations:
+      required: true
+  
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Which steps do we need to take to reproduce this error?

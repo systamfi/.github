@@ -14,4 +14,4 @@ Describe clearly what's not working as expected.
 
 **Steps to reproduce**
 
-How to reproduce the bug:
+Explain how to reproduce the issue, step by step:

@@ -8,10 +8,10 @@ assignees: ''
 
 ---
 
-**Describe the Bug**
+**Summary**
 
 Describe clearly what's not working as expected.
 
-**Steps to Reproduce**
+**Steps to reproduce**
 
 How to reproduce the bug:

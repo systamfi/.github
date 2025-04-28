@@ -8,12 +8,10 @@ assignees: ''
 ---
 
 ## Goal
-What value does this issue bring to the table once complete?
+Describe clearly what we want to achieve. Focus on the outcome, not the solution.
 
 ## Acceptance criteria
 <details>
 <summary> Specifications (click to open)</summary>
-Write down the feature specifications here.
-
-  If list is short, you can remove the dropdown.
+List the conditions that must be met for this to be considered done. Use clear and testable statements.
 </details>

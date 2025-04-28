@@ -10,7 +10,7 @@ assignees: ''
 
 **Describe the Bug**
 
-Write clearly what is not working as expected.
+Describe clearly what's not working as expected.
 
 **Steps to Reproduce**
 

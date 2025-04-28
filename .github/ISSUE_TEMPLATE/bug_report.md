@@ -10,8 +10,8 @@ assignees: ''
 
 **Summary**
 
-Describe clearly what's not working as expected.
+Describe clearly what's not working as expected
 
 **Steps to reproduce**
 
-Explain how to reproduce the issue, step by step:
+Explain how to reproduce the issue, step by step

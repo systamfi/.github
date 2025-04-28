@@ -22,7 +22,7 @@ body:
       required: true
     if: ${{ form.type == 'Bug' }}
 
-     - type: textarea
+  - type: textarea
     id: feature-request
     attributes:
       label: Feature request

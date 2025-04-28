@@ -17,12 +17,16 @@ body:
     id: bug-description
     attributes:
       label: Bug description
-      description: Whats happening?
+      description: Whats happening? Which steps do we need to take to reproduce this error?
     validations:
       required: true
-  
-  - type: textarea
-    id: steps
+    if: ${{ form.type == 'Bug' }}
+
+     - type: textarea
+    id: feature-request
     attributes:
-      label: Steps to reproduce
-      description: Which steps do we need to take to reproduce this error?
+      label: Feature request
+      description: What does the customer want?
+    validations:
+      required: true
+    if: ${{ form.type == 'Feature request' }}

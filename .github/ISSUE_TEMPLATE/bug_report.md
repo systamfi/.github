@@ -10,8 +10,9 @@ assignees: ''
 
 **Describe the Bug**
 
+Write clearly:
+
 What is not working as expected?
-Add pictures or other context if needed.
 
 **Steps to Reproduce**
 

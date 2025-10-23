@@ -1,15 +1,13 @@
 ---
 name: Tuotepelin asia
 about: Tuotepelin templaatti asioiden luomiseen
-title: "[asia] "
+title: ""
 labels:
 type: "feature"
 assignees: ""
 ---
-# Asia on
+Asian lyhyt kuvaus:
 
-# Miksi nyt?
 
-# Odotettu lopputulos
+Miksi asia on tärkeä?
 
-_Muista täydentää resurssimäärä ja kvartaali_
